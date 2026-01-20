@@ -1,7 +1,7 @@
 import './style.css'
 
 
-let taskcard = document.querySelectorAll('.task-card'); 
+let taskcard = document.querySelectorAll ('.task-card'); 
 let inputsearch = document.querySelector('#inputsearch');
 
 inputsearch.addEventListener("input",function(){
